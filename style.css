@@ -5,7 +5,7 @@ h1 {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: 150px;
     margin-bottom: 5px;
     border-radius: 10px;
     display: flex;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    font-size: 250px;
+    font-size: 150px;
     margin-top: 0;
     margin-bottom: 20px;
     border: none;
@@ -63,6 +63,27 @@ increment-btn {
 }
 
 body {
-    background-image: url("../Images/flowers-19830__340.jpg")
+    background-image: url("./Images/flowers-19830__340.jpg")
+}
+
+p{
+    border: 5px, red;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    display: table-cell;
+    vertical-align: middle;
+    display: table;
+    margin: auto;
+
 }
 
