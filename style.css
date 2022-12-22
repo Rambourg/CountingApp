@@ -1,0 +1,68 @@
+h1 {
+    border: none;
+    font-size: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    display: table-cell;
+    vertical-align: middle;
+    display: table;
+    margin: auto;
+    
+
+}
+
+h2 {
+    font-size: 250px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    display: table;
+    margin: auto;
+}
+
+button {
+    border: none;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    display: table;
+    margin: auto;
+}
+
+increment-btn {
+    background: darkred;
+}
+
+body {
+    background-image: url("../Images/flowers-19830__340.jpg")
+}
+
